@@ -1,6 +1,6 @@
 [gd_scene load_steps=10 format=3 uid="uid://dx30sn5stl3yb"]
 
-[ext_resource type="Script" path="res://slime.gd" id="1_0maok"]
+[ext_resource type="Script" path="res://script/slime.gd" id="1_0maok"]
 [ext_resource type="Texture2D" uid="uid://b0ryqgarkublo" path="res://assets/sprites/slime_green.png" id="2_bomxp"]
 [ext_resource type="PackedScene" uid="uid://dl6fkj6mlhjkg" path="res://scenes/killzone.tscn" id="3_qcm1s"]
 
